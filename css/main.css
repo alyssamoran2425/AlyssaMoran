@@ -73,3 +73,8 @@
     color:white;
     background-color:black;
   }
+
+/*spacing for contact button*/
+.list-group{
+    justify-content: space-between;
+}
